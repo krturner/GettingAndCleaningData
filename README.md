@@ -1,6 +1,6 @@
-#title: "Codebook for run_analysis.R script"
-#author: "Kris Turner"
-#date: "12/23/2015"
+##Readme for run_analysis.R script
+##Kris Turner
+##12/23/2015
 
 ## Project Description
 This project involves the processing of a raw data set into a tidy dataset. The raw data comes from a study where accelerometers were placed on 30 different subjects doing six different physical activities: Walking, walking upstairs, walking downstairs, sitting, standing and laying. The run_analysis.R script combines multiple data souces into one cohesive and tidy dataset.
