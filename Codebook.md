@@ -6,7 +6,9 @@
 This project involves the processing of a raw data set into a tidy dataset. The raw data comes from a study where accelerometers were placed on 30 different subjects doing six different physical activities: Walking, walking upstairs, walking downstairs, sitting, standing and laying. The run_analysis.R script combines multiple data souces into one cohesive and tidy dataset.
 
 ##Creating the tidy datafile
-First the following data files were read into R:
+Before starting the script checks to see if your machine has the "dplyr" package installed. If the package is not installed then the script will install it. It will then load the package into your current working session through the library(dplyr) command.
+
+Next, the following data files were read into R:
 
 x_test.txt - this file contained the accelerometer data for the test group
 y_test.txt - this file contained information of what rows of data in x_test.txt correspond to what activity
