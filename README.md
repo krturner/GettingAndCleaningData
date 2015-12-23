@@ -68,4 +68,4 @@ http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Datas
 
 ##Sources
 http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.names
-The UCI HAR dataset itself
+and The UCI HAR dataset itself
